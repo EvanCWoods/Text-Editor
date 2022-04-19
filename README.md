@@ -26,6 +26,8 @@ The download button on the top left allows the user to use a copy of the app loc
 
 The data is stored using IndexedDb which stores objects in the browser.
 
+The app is deployed on Heroku and accessible via https://text-editor-hw-19.herokuapp.com
+
 
 
 ## Contribute
